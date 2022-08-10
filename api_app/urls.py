@@ -3,6 +3,7 @@ from . import views
 
 app_name = "api"
 
+'''
 urlpatterns = [
     path('login', views.login, name="login"),
     path('register', views.register, name="register"),
@@ -12,3 +13,5 @@ urlpatterns = [
     path('delete-url/<int:id_url>', views.deleteUrl, name="delete-url"),
     path('url-statistics/<int:id_url>', views.urlStatistics, name="url-statistics"),
 ]
+'''
+urlpatterns = []
