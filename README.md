@@ -1,6 +1,6 @@
 # URL Shortner
 ## how to run the server
-- jangan lupa install semua requirements yang ada di requirements.txt
+- install semua requirements yang ada di requirements.txt
 - jalankan migrate.bat,
 - jalankan shell.bat,
 - pada shell, paste kode dibawah
