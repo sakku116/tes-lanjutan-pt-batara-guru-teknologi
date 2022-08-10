@@ -1,0 +1,11 @@
+Ketentuan API
+
+- User dapat menyingkat URL dengan login atau tanpa login
+- User yang terautentikasi(Login/Register) dapat melakukan kustomisasi url
+- User dapat URL yang panjang menjadi lebih pendek menjadi random string atau secara kustom
+- User dapat melakukan redirect dari URL yang pendek ke URL tujuan
+- User dapat melihat daftar link yang sudah dibuat
+- User dapat menghapus link yang sudah dibuat
+- User dapat mengedit link yang sudah dibuat
+- User dapat melihat statistik dalam 1jam, harian, bulanan dari berapa kali URL tersebut diakses (Nilai +)
+- User yang mengakses URL tersebut dihitung +1 berdasarkan cookies browser (Nilai +)

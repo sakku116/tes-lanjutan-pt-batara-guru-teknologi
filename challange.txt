@@ -1,0 +1,11 @@
+Backend Challenge Batara Guru
+
+1. Buka dokumentasi, lalu import file tersebut ke Swagger
+2. Kandidat diharuskan mampu membuat API dan teliti pada struktur pada setiap endpoint. Diwajibkan untuk memperhatikan struktur pada nama endpoint, struktur request dan struktur response harus sama dengan yang telah ditentukan dalam contoh.
+3. Kandidat membuat file script migration dan seeder data
+4. Kandidat bebas menggunakan bahasa pemrograman, database apapun
+5. Kumpulkan hasil pekerjaan ke dalam repositori GIT publik
+6. Kirimkan link repositori git kepada email HRD
+7. Waktu pengerjaan x Jam
+8. Kandidat dapat bertanya hanya saat waktu pengerjaan dimulai
+9. Jika waktu yang diberikan sudah habis peserta diharapkan tetap mengumpulkan hasil pekerjaannya
